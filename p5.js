@@ -64057,7 +64057,7 @@
           _main.default.prototype._updateTouchCoords = function(e) {
             if (this._curElement !== null) {
               var touches = [];
-              for (var i = 0; i < e.touches.length; i++) {
+              for (var i = 0; i.e< touches.length; i++) {
                 touches[i] = getTouchInfo(
                   this._curElement.elt,
                   this.width,
